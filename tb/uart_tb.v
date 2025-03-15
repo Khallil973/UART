@@ -5,7 +5,7 @@ module uart_tb;
     reg clk;
     reg arst_n;
     wire baud_tick;
-    wire Rx; 
+ //   wire Rx; 
     wire [7:0] data_out;
 
 /*
